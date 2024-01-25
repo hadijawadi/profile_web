@@ -1,0 +1,13 @@
+.profile{
+    border-radius: 50%;
+    border: solid 3px red;
+    height: 300px;
+    width: 400px;
+    
+}
+
+.containers{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
